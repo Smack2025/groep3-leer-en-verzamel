@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="24" ry="24" fill="#FFFDF7"/>
+  
+  <circle cx="128" cy="90" r="26" fill="#FFD54F"/>
+  <rect x="80" y="120" width="96" height="64" fill="#42A5F5" rx="10"/>
+  <line x1="80" y1="120" x2="128" y2="144" stroke="#fff" stroke-width="3"/>
+  <line x1="176" y1="120" x2="128" y2="144" stroke="#fff" stroke-width="3"/>
+  <text x="128" y="200" text-anchor="middle" font-size="14" font-family="Arial" fill="#333">ik lees een boek</text>
+
+</svg>

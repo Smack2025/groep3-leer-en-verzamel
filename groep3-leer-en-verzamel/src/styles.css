@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+button:focus-visible, a:focus-visible { outline: none; box-shadow: 0 0 0 4px rgba(66,165,245,0.5); border-radius: 1rem; }

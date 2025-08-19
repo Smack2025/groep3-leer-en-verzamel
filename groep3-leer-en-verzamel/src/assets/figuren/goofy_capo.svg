@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="24" ry="24" fill="#F1F8E9"/>
+  
+  <circle cx="128" cy="128" r="60" fill="#C5E1A5" />
+  <circle cx="112" cy="118" r="6" fill="#333"/>
+  <circle cx="144" cy="118" r="6" fill="#333"/>
+  <path d="M110 150 Q128 140 146 150" stroke="#333" stroke-width="4" fill="none"/>
+  <text x="128" y="212" text-anchor="middle" font-size="14" font-family="Arial" fill="#333">Goofy Capo</text>
+
+</svg>

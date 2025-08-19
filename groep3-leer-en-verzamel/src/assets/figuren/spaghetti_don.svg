@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="24" ry="24" fill="#FFFDE7"/>
+  
+  <ellipse cx="128" cy="150" rx="60" ry="30" fill="#FDD835"/>
+  <path d="M80 150 C100 130, 156 170, 176 150" stroke="#FBC02D" stroke-width="6" fill="none"/>
+  <circle cx="128" cy="120" r="22" fill="#F06292"/>
+  <text x="128" y="212" text-anchor="middle" font-size="14" font-family="Arial" fill="#333">Spaghetti Don</text>
+
+</svg>
